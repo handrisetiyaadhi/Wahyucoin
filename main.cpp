@@ -1,0 +1,1 @@
+// Dummy content for wahyucoin/src/main.cpp
