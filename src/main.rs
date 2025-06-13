@@ -23,7 +23,7 @@ let mut tx1 = Transaction::new(
 let mut tx2 = Transaction::new(
     wallet.address.clone(),           // from: String
     "bob".to_string(),                // to: String
-    20.0,                             // amount
+    50.0,                             // amount
     "".to_string(),                   // signature kosong dulu
     chrono::Utc::now().timestamp()    // timestamp
 );
