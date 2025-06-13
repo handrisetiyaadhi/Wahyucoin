@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/wahyucoin/target/debug/wahyucoin: /data/data/com.termux/files/home/wahyucoin/src/block.rs /data/data/com.termux/files/home/wahyucoin/src/blockchain.rs /data/data/com.termux/files/home/wahyucoin/src/main.rs /data/data/com.termux/files/home/wahyucoin/src/transaction.rs /data/data/com.termux/files/home/wahyucoin/src/wallet.rs
